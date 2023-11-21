@@ -1,0 +1,45 @@
+.shop-now {
+    width: 50%;
+    height: 50px;
+    background-color: #dd3e88 !important;
+    color: white !important;
+    border: 1px solid #dd3e88 !important;
+    font-size: 20px;
+}
+
+.shop-now:hover {
+    background-color: white !important;
+    color: #dd3e88 !important;
+    border: 1px solid #dd3e88 !important;
+}
+
+.home-card {
+    border-color: #dd3e88 !important;
+}
+
+.home-card:hover {
+    box-shadow: 0px 4px 8px #424242;
+    transform: scale(1.05);
+    border-color: #424242 !important;
+}
+
+.icon-button {
+    background-color: #dd3e88 !important;
+    color: white;
+    border: 1px solid #dd3e88 !important;
+}
+
+.proceed-button {
+    width: 10%;
+    height: 50px;
+    background-color: #dd3e88 !important;
+    color: white !important;
+    border: 1px solid #dd3e88 !important;
+    font-size: 20px;
+}
+
+.proceed-button:hover {
+    background-color: white !important;
+    color: #dd3e88 !important;
+    border: 1px solid #dd3e88 !important;
+}
